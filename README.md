@@ -1,6 +1,6 @@
 # CS-360-Mobile-Architect-and-Programming
 
-For this course, I developed a simple app that allows users to track their weight over a period of time. The app consists of two screens: one that allowed the user to log in or create an account and another screen that allowed the user to manipulate their weight data. I designed the screen layouts with a minimalistic approach so that they would be intuitive to use and quick to develop within the given timeframe. If I were to release the app, I would spend more time improving the graphics and typography to make the app look more professional.
+For this course, I developed a simple app that allows users to track their weight over a period of time. The app consists of two screens: one that enables the user to log in or create an account and another that allows the user to manipulate their weight data. I designed the screen layouts with a minimalistic approach so that they would be intuitive to use and quick to develop within the given timeframe. If I were to release the app, I would spend more time improving the graphics and typography to make the app look more professional.
 
 When coding the app, I had to spend a lot of time researching and reading through the zyBook. I also had to learn how to write code in Kotlin since I had never used that language before. Regardless, I followed my usual approach of implementing one feature at a time, beginning with the essential core features and working my way down the list to the less important features.
 
